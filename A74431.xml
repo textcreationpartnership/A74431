@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for setting apart Friday the four and twentieth day of October, one thousand six hundred fifty one, for a day of publique thanksgiving: together with a narrative declaring the grounds and reasons thereof. Friday the 26th of September, 1651. Ordered by the Parliament, that this Act and narrative be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74431</idno>
+            <idno type="STC">Thomason E1061_57</idno>
+            <idno type="STC">ESTC R209324</idno>
+            <idno type="EEBO-CITATION">99868207</idno>
+            <idno type="PROQUEST">99868207</idno>
+            <idno type="VID">169106</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74431)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169106)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 158:E1061[57])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for setting apart Friday the four and twentieth day of October, one thousand six hundred fifty one, for a day of publique thanksgiving: together with a narrative declaring the grounds and reasons thereof. Friday the 26th of September, 1651. Ordered by the Parliament, that this Act and narrative be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>p. [2], 1433-1441.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Field, Printer to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: 11D-11E2. Also issued as part of a through-paged set with a table for the entire set added.</note>
+                  <note>On 11D2r: last word of first line of text: "Lord"; first word of line below initial: ""Lord"; last word of last full line: "our".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fasts and feasts --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169106:1" rendition="simple:additions"/>
+            <pb facs="tcp:169106:2"/>
+            <pb facs="tcp:169106:2" rendition="simple:additions"/>
+            <p>AN ACT FOR Setting apart <hi>Friday</hi> the Four and twentieth Day of <hi>October,</hi> One thouſand ſix hundred fifty one, For a Day of Publique Thankſgiving: Together with a NARRATIVE DECLARING The <hi>Grounds</hi> and <hi>Reaſons</hi> thereof.</p>
+            <figure>
+               <figDesc>Anglo-Irish blazon or coat of arms</figDesc>
+            </figure>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>Friday <hi>the</hi> 26<hi rend="sup">th</hi> 
+                           <hi>of</hi> September, 1651.</date>
+                     </dateline>
+                  </opener>
+                  <p>
+                     <hi>ORdered by the Parliament, That this Act and Narrative be forthwith printed and publiſhed.</hi>
+                  </p>
+                  <closer>
+                     <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Field,</hi> Printer to the Parliament of <hi>England,</hi> 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:169106:3"/>
+            <pb n="1433" facs="tcp:169106:3" rendition="simple:additions"/>
+            <head>AN ACT For ſetting apart <hi>Friday</hi> the Four and twentieth Day of <hi>October,</hi> 1651.</head>
+            <head type="sub">FOR A Day of Publike Thankſgiving: Together with a NARRATIVE DECLARING The <hi>Grounds</hi> and <hi>Reaſons</hi> thereof.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Works of Providence, by which the Lord hath pleaded the Cauſe of this Parliament and Commonwealth in the ſight of the Nations round about, are Glorious, and will be ſought out by all thoſe that have pleaſure in them; and therefore muſt not paſs under the common Title of <hi>Events and Chances of War:</hi> The Lord having ſo done this marvellous Work for Time and Place, with a Concurrence of all other remarkable Circumſtances, That it ought to be had in Everlaſting Remembrance, both by our
+<pb n="1434" facs="tcp:169106:4"/>Selves, and by the Generations which ſhall be born; as will emi<g ref="char:EOLhyphen"/>nently and convincingly appear by this brief enſuing <hi>Narrative.</hi>
+            </p>
+            <p>AFter the Lord (the Great and Righteous Judge of Heaven and Earth) was pleaſed ſo Signally to bear Witneſs to the Juſtice and Neceſſity of our Armies marching into <hi>Scotland,</hi> by giving Sentence (when Solemn Appeals were made unto him by both Parties) on our ſide, in that glorious Victory vouchſafed unto our Army the Third day of <hi>September,</hi> One thouſand ſix hundred and fifty, againſt the <hi>Scots</hi> near <hi>Dunbar:</hi> The ſame Divine Pro<g ref="char:EOLhyphen"/>vidence led on our Forces there to the gaining of many Towns and Gariſons; and in particular, <hi>Leith, Edinburgh,</hi> and not long after, the Caſtle there, though in the Eſteem of the Enemy im<g ref="char:EOLhyphen"/>pregnable. But the Enemy not reſting in that deciſion, did re<g ref="char:EOLhyphen"/>inforce themſelves, and relying on the advantage of the Town and Paſs at <hi>Sterling,</hi> and other Intrenchments, would by no Pro<g ref="char:EOLhyphen"/>vocation or Endeavors on our part uſed, be drawn forth to an Engagement, though our Forces faced them up to their Works, when the <hi>Scots</hi> (as ſome of themſelves have ſince confeſſed) were Twenty ſeven thouſand, and ours nothing near that number, ſuffering a ſtrong Gariſon of theirs to be ſtormed and taken with<g ref="char:EOLhyphen"/>in the view of their Camp, without once offering to relieve it. The Conſideration hereof, and of the Charge and Difficulties of a Winters War (which the Enemy ſeemed chiefly to Deſign, and might the better effect whiles they had <hi>Sterling,</hi> and there<g ref="char:EOLhyphen"/>by the Command of the rich Country of <hi>Fife</hi> at hand to Quar<g ref="char:EOLhyphen"/>ter their Forces in, and by means of St. <hi>Johnſtons</hi> (a ſecond Paſs) the whole North of <hi>Scotland</hi> to furniſh them with Recruits of Men and Supplies of all Proviſions; and likewiſe many Sea Ports to let in Forreign Aſſiſtance) produced a Reſolution to put over a Force into <hi>Fife</hi> (notwithſtanding all Hazards) to ſtraiten their Quarters and hinder their Supplies; Which Attempt the Lord was pleaſed to Crown, not onely by giving us ſpeedy and happy Footing, but a notable Victory to that part of our Army commanded by the Major General, over the Forces of the Ene<g ref="char:EOLhyphen"/>my, whereof the greateſt number were a commanded Party of their choice Men out of their whole Army: In which Defeat near One thouſand five hundred were taken Priſoners, together with Sir <hi>John Brown</hi> their Commander in Chief, and the greateſt part of the reſidue ſlain, Forty two Colours taken, and all this (which made the Mercy the more remarkable) with the loſs onely of Four of our Men ſlain on the place, and ſome wounded. About this very time the General marched up near <hi>Sterling</hi> to engage the Enemy, who having quitted their Camp at <hi>Torwood,</hi>
+               <pb n="1435" facs="tcp:169106:4"/>were march'd through <hi>Sterling,</hi> Sixteen Miles toward our Forces in <hi>Fife;</hi> And finding the Enemy would not Engage (having diſ<g ref="char:EOLhyphen"/>poſed on this ſide the River ſuch Force as could well be ſpared to hinder the Enemies Levies and Proviſions; or if they ſhould Advance for <hi>England,</hi> to be upon our Borders, and to joyn with other Parties there in Readineſs to retard their March) The Ge<g ref="char:EOLhyphen"/>neral Remarch'd to the <hi>South-Ferry,</hi> and Landed the Reſidue of his Army in <hi>Fife;</hi> upon which, the ſtrong Caſtle of <hi>Enisgarvy,</hi> in the Middle of the River, with Sixteen Pieces of Canon, and <hi>Brunt-Iſland,</hi> were Surrendred, and the Army marcht forthwith towards St. <hi>Johnſtons.</hi> The Enemy being thereby awakened, ſent a Party of about One thouſand Foot, with a Governor, into St. <hi>Johnſtons,</hi> who arrived there Two hours before the General ſate down with the Army: And finding by this Interpoſition his Northern Supplies cut off, marcht directly for <hi>England</hi> with an Army of Sixteen thouſand Horſe and Foot, and a Light Train of Artillery; being come near <hi>Carlile,</hi> their King cauſed himſelf to be Proclaimed King of <hi>England,</hi> and ſending out his Decla<g ref="char:EOLhyphen"/>rations full of fair Promiſes to all that ſhould come in to him or not oppoſe him, marched forward, being attended in his Moti<g ref="char:EOLhyphen"/>ons by ſome of our Horſe. The General (St. <hi>Johnſtons</hi> being Surrendred, leaving a Gariſon there, and about Seven thouſand Horſe and Foot under the Command of the Lieutenant General of the Ordinance, for reducing the Caſtle of <hi>Sterling</hi> and other Gariſons, and preventing any Levies by the Enemy) with the reſt of the Army came back for <hi>Lieth,</hi> and the ſame day ſent away Five Regiments of Horſe and Dragoons to fall into the Rear of the Enemy, whiles himſelf with the reſt of his Horſe, his Body of Foot, and Train of Artillery, Advanced after with all poſſible ſpeed towards <hi>England.</hi> The Enemy being come to <hi>Warrington,</hi> and attempting the Paſs there, our Forces (who a day or two be<g ref="char:EOLhyphen"/>fore were joyned and got into his Van) thought not fit long to Diſpute it, in reſpect the River was in many places Fordable, the Lands and Incloſures inconvenient for the Horſe; and the Foot, whom they found at the Bridge, though full of Courage, and de<g ref="char:EOLhyphen"/>ſirous to Engage, no way proportionable to the Enemies great numbers, the General alſo being at that time about Four days March off them, but marched off to <hi>Knotsford</hi> Heath; where in the way the Enemy twice Charging our Rear-gard, was beaten back with the loſs of about Thirty of theirs (ſlain and taken Pri<g ref="char:EOLhyphen"/>ſoners) we not loſing above Three or four in the March, and at the Paſs: On that Heath our Forces drew up in a Poſture to re<g ref="char:EOLhyphen"/>ceive and fight the Enemy, but he declined it, and marcht to <hi>Nantwich.</hi>
+            </p>
+            <pb n="1436" facs="tcp:169106:5"/>
+            <p>In their paſſage through <hi>Lancaſhire,</hi> the Enemy had left the Earl of <hi>Derby</hi> with Three hundred Foot and a Troop of Horſe, which he brought from the <hi>Iſle of Man,</hi> together with Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Widderington,</hi> Sir <hi>William Throckmorton,</hi> Sir <hi>Timothy Fe<g ref="char:EOLhyphen"/>therſtonhaugh,</hi> Major General Sir <hi>Thomas Tildſey,</hi> Colonel <hi>Boynton,</hi> with many Commanders and other Gentlemen of qua<g ref="char:EOLhyphen"/>lity, to raiſe Six thouſand Foot and One thouſand five hundred Horſe in that County, as an Additional Strength to their Ar<g ref="char:EOLhyphen"/>my; Major General <hi>Maſſey</hi> being alſo left with him to aſſiſt that Work, whiles the Enemy himſelf marcht on in a direct courſe to <hi>Worceſter,</hi> in his way ſummoning <hi>Shrewsbury,</hi> and at<g ref="char:EOLhyphen"/>tempting by Letters and Declarations to gain more aſſiſtance, but without ſucceſs.</p>
+            <p>The Two and twentieth of <hi>Auguſt,</hi> with five hundred Horſe and Dragoons, about Noon, he entred <hi>Worceſter,</hi> then which no Place ſeemed more to anſwer all his Ends, it being a City ſeat<g ref="char:EOLhyphen"/>ed on the <hi>Severn,</hi> within twelve Miles of five Counties, near unto <hi>Gloceſter,</hi> the Foreſt of <hi>Dean</hi> and <hi>Southwales,</hi> where <hi>Maſſey</hi> (who was a little before called off from the Earl of <hi>Der<g ref="char:EOLhyphen"/>by</hi> to ſerve this Deſign) pretended his greateſt Intereſt to be; and by gaining that Place, the Enemy well knew he ſhould be Maſter of all the Paſſes upon <hi>Severn,</hi> from <hi>Shrewsbury</hi> to <hi>Glo<g ref="char:EOLhyphen"/>ceſter,</hi> and (there not being One hundred of the Parliaments Forces within twenty Miles of him) he might lie the more ſecure for refreſhing his wearied men, imploy his Intereſt to get what Additional Strength he could from thoſe Parts, or at leaſt make it a winter War; and thereby gain time for Forreign Aſſiſtance, and better opportunity for his Agents to ſtir up Tumults in <hi>England,</hi> and for the Raiſing a new Army in <hi>Scotland</hi> under the Earl of <hi>Leven</hi> (whom he had left General there for that pur<g ref="char:EOLhyphen"/>poſe) to come alſo into <hi>England:</hi> Our Forces in <hi>Worceſter</hi> being few, and finding the Place untenable (though threeſcore onely of them beat the Enemy twice out of the Town, and killed and wounded ſome of them) withdrew in ſafety to <hi>Gloceſter.</hi>
+            </p>
+            <p>The General with his Forces (which on the Third of <hi>Auguſt</hi> were at <hi>St. Johnſtons</hi> in <hi>Scotland</hi>) upon the Twenty eighth of the ſame moneth with a continued March, except one days Reſt, took up his Head-quarters within two Miles on the Eaſt ſide of <hi>Worceſter,</hi> being from <hi>St. Johnſtons</hi> about three hundred Miles, the reſt of the Forces which had hitherto attended the Enemy being joyned with him; the Lieutenant General, with the Forces under him, quartered the ſame day about ſeven Miles from <hi>Worce<g ref="char:EOLhyphen"/>ſter</hi> near <hi>Upton</hi> Bridge, of which Paſs the Enemy was poſſeſ<g ref="char:EOLhyphen"/>ſed,
+<pb n="1437" facs="tcp:169106:5"/>and in <hi>Upton</hi> Town on the other ſide the River, was Major General <hi>Maſſey</hi> with Sixty Dragoons and Two hundred Horſe to ſecure it. Whiles a ſmall Party of ours went to view the Bridge, without Deſign or expectation at that time to gain the Paſs, and finding the Bridge broken down by the Enemy (one piece of Timber onely left, which reached from one Arch to another) twenty Dragoons and diſmounted Troopers with Car<g ref="char:EOLhyphen"/>bines being commanded over to poſſeſs the Church near the Bridge, crept over the piece of Timber, and got to the Church, whereupon the Enemy took the Alarm, and advanced towards them and offered them quarter, and were attempting to fire the door; mean while a hundred Dragoons more came up, and in like maner got over and beat off the Enemy, whoſe whole Par<g ref="char:EOLhyphen"/>ty was now come down upon them; in which Action Major Ge<g ref="char:EOLhyphen"/>neral <hi>Maſſey</hi> had his horſe killed under him, himſelf received ſeveral Shots and was wounded, and forced to retreat with his Party in diſorder towards <hi>Worceſter.</hi> The Lord having been pleaſed thus unexpectedly and happily to give us this Paſs, the Lieutenant General marched over, and lodged part of his Forces that night in <hi>Upton.</hi>
+            </p>
+            <p>Whiles the General was on his March from <hi>Scotland,</hi> he ſent off Colonel <hi>Lilborn</hi> with his Regiment of Horſe to wait upon the Enemies Rear; who finding the Earl of <hi>Derby</hi> raiſing Forces in <hi>Lancaſhire,</hi> in his endeavoring to prevent him was forced to en<g ref="char:EOLhyphen"/>gage, where the Lord was graciouſly pleaſed by that Regiment of Horſe (though harrazed by a tedious March from <hi>Scotland</hi>) and three Companies of Foot, to defeat the Earl of <hi>Derby</hi>'s whole Forces, being One thouſand five hundred Horſe and Foot near <hi>Wiggon</hi> in <hi>Lancaſhire,</hi> where were ſlain Sir <hi>William Widde<g ref="char:EOLhyphen"/>rington</hi> Major General, Sir <hi>Thomas Tildſey,</hi> Colonel <hi>Boynton</hi> (ſometimes Governor of <hi>Scarborough</hi> for the Parliament, which Place he betrayed to the Enemy) and Colonel <hi>Trollop,</hi> and ta<g ref="char:EOLhyphen"/>ken, Four hundred Priſoners, together with Sir <hi>William Throck<g ref="char:EOLhyphen"/>morton,</hi> Sir <hi>Timothy Fetherſton-haugh,</hi> and ſeveral Colonels and Commanders of quality: The Earl of <hi>Derby</hi> with about thirty Horſe eſcaping, carried the News of his own Defeat to <hi>Worce<g ref="char:EOLhyphen"/>ſter.</hi> In which Mercy the Lord was graciouſly pleaſed to appear for our ſmall Forces (who were engaged upon great Diſadvanta<g ref="char:EOLhyphen"/>ges of place and number beyond their intentions) and that moſt ſeaſonably, in deſtroying that growing Army, and giving in the ſame as a Pledge of what he would yet do for his People.</p>
+            <p>Theſe glad Tidings were followed by the News from <hi>Scotland</hi> of the Surrender of <hi>Sterling</hi> Caſtle, in which were many thou<g ref="char:EOLhyphen"/>ſand Arms, Forty Pieces of Ordnance, Six and twenty Barrels of
+<pb n="1438" facs="tcp:169106:6"/>Powder, the Publique Records of <hi>Scotland,</hi> the Sword, Cloth and Chair of State. Not long after this followed the Routing of the New Levies of the Enemy in the Weſt of <hi>Scotland,</hi> taking the Lord <hi>Osbarſton</hi> and others priſoners; The gaining <hi>Anſtruther</hi> by Storm with Fifteen Ships in the Harbor, the Surprizing the Earl of <hi>Leven</hi> General of their Forces in <hi>Scotland,</hi> the Earl <hi>Craford-Lindſey</hi> Lieutenant General, the Earl <hi>Marſhal,</hi> with four Lords more, and divers Knights, Miniſters and Gentlemen of quality; with the ſcattering and diſperſing of Four thouſand, which at that time were Rendezvouzed at <hi>Ellit</hi> in <hi>Perth,</hi> to relieve <hi>Dundee</hi> then beſieged by our Forces; the taking many Priſoners at <hi>Dumfreeze</hi> and Diſſipating them, attempting again new Levies there, and the gaining <hi>Dundee</hi> it ſelf by Storm, in which were Forty Pieces of Ordnance, Six hundred of the Enemy ſlain, with Major Ge<g ref="char:EOLhyphen"/>neral <hi>Lumſden</hi> the Governor, Colonel <hi>Coningham</hi> late Gover<g ref="char:EOLhyphen"/>nor of <hi>Sterling,</hi> and many others of quality, four hundred taken Priſoners, great ſtore of Ships and other Veſſels found in the Harbor; to which was ſince added, the giving up of <hi>St. Andrews, Montroſs</hi> and <hi>Aberdeen.</hi>
+            </p>
+            <p>On Saturday the Three and twentieth of <hi>Auguſt,</hi> the Scotch King with his whole Army marched into <hi>Worceſter,</hi> and applied himſelf to the Fortifying thereof, and had ſoon made up ſome Works, and repaired the Royal Fort on the Eaſt ſide of the City, and planted Canon upon it, the General being encamped before the Town: On the Third of <hi>September</hi> (being the ſelf ſame Day of the moneth upon which a year before we obtained that Memo<g ref="char:EOLhyphen"/>rable Victory at <hi>Dunbar</hi>) our Forces at <hi>Upton,</hi> under the Com<g ref="char:EOLhyphen"/>mand of the Lieutenant General, in purſuance of former Coun<g ref="char:EOLhyphen"/>cels (the Execution whereof Providence had delayed till this day, without any ſuch Predetermination on our part) advanced towards the Enemy at <hi>Worceſter,</hi> but by reaſon of ſome hinder<g ref="char:EOLhyphen"/>ances reached not to <hi>Teame</hi> River (which lying on the Weſt ſide of <hi>Severn,</hi> empties it ſelf thereinto about a Mile beneath <hi>Worce<g ref="char:EOLhyphen"/>ſter</hi>) till between two and three of the Clock in the Afternoon, Boats alſo being brought up at the ſame time, two Bridges were made over the Rivers. The Enemy taking no Alarm till the Van of our Forces were marcht within the ſight of the Town, did now draw down his Horſe &amp; Foot from his Leaguer at <hi>St. Jones</hi>'s, lyning all the Hedges from their Paſs at <hi>Poyick</hi> to the River <hi>Se<g ref="char:EOLhyphen"/>vern</hi> with Muſqueteers to oppoſe our Advance: The General commanded ſome Forces over <hi>Severn</hi> towards the Enemy, whiles others were ſent over <hi>Teame</hi> to the ſame ground; the Enemies Foot with ſome difficulty were beaten from the Hedges, which they for ſome time diſputed, and were at length driven back to the Body
+<pb n="1439" facs="tcp:169106:6"/>of their Horſe and Foot, which was then drawn up in <hi>Wickfield</hi> near <hi>Poyick</hi> Bridge, being the ſame Field where the late king firſt engaged the Forces of the Parliament, in the ſame moneth of <hi>Se<g ref="char:EOLhyphen"/>ptember,</hi> One thouſand ſix hundred forty two: Our horſe and Foot marched up with great reſolution to the Enemies Body, and came to puſh of Pike with them, and through the Goodneſs of God drove back and wholly routed them, killing many upon the place, and purſuing the reſt to the Draw-bridge and Gate of the City. Whiles this was in action, ſome Horſe and Dragoons ſent to a Paſs over <hi>Teame</hi> about two Miles above <hi>Poyck</hi> Bridge (which the Enemy had broken down) gained that Ford, where our Horſe paſ<g ref="char:EOLhyphen"/>ſed over, and purſued ſuch of the Enemies Horſe as could not get into the Town, and ſecured that Bridge at the Weſt-gate, that none might eſcape that way.</p>
+            <p>The greateſt part of our Army was now drawn over to the weſt of <hi>Severn,</hi> where it was conceived the Streſs of the Battel would be, which the Enemy perceiving, and ſuppoſing them too far en<g ref="char:EOLhyphen"/>gaged to get back over the Bridge of Boats that night, he poured forth at the ſeveral Gates of the City all his Horſe and Foot upon that part of our Forces left on the Eaſt ſide of the River, which being ſeaſonably diſcovered, our General himſelf haſtened back to that part of the Army, which the Enemy preſently charged with good Reſolution; yet through the good hand of our God upon that part of the Army, after about two hours ſharp Di<g ref="char:EOLhyphen"/>ſpute, they were beaten back into the Town, and our men paſſing by their great Fort and Canon, entred the Town with the Ene<g ref="char:EOLhyphen"/>my, whiles others of our Forces ran up and ſtormed the Royal Fort it ſelf, poſſeſſed themſelves of it, turning the Canon upon the Enemy.</p>
+            <p>The Scotch King (having in vain uſed all Endeavors to make the Horſe and Foot in the Town face about for Defence thereof) fled away, and about Three thouſand Horſe and ſome High-land Foot, leaving the reſt in the Town, fled towards <hi>Bewdley,</hi> whether the General ſent the day before One thouſand Horſe and Dra<g ref="char:EOLhyphen"/>goons to ſecure that Paſs, who took more Priſoners then them<g ref="char:EOLhyphen"/>ſelves were in number, and many of thoſe who eſcaped them and the Horſe ſent in their Purſuit, were met with by other of the Ar<g ref="char:EOLhyphen"/>my and Countrey Forces (Expreſſes being the ſame night the Bat<g ref="char:EOLhyphen"/>tel was fought ſent into all the Northern Counties and <hi>Scotland,</hi> giving notice of the Succeſſes) ſo as they were gathered up by Hundreds and Fifties, that very few of thoſe who fled from <hi>Wor<g ref="char:EOLhyphen"/>ceſter</hi> eſcaped.</p>
+            <p>Thus was our gracious God pleaſed to appear as <hi>The Lord of Hoſts.</hi> (which was our Word in this and the Battel at <hi>Dunbar</hi>)
+<pb n="1440" facs="tcp:169106:7"/>with and for his People, in deſtroying this deſperate and inſolent Enemy, and working a glorious ſalvation for us.</p>
+            <p>Of the Enemy, which were about Sixteen thouſand Horſe and Foot, there were ſlain in and about <hi>Worceſter</hi> and in the Purſuit, about Three thouſand; The Priſoners taken in the Town and in their Flight, about Twelve thouſand; amongſt whom were Duke <hi>Hamilton,</hi> the Earls of <hi>Derby, Cleveland, Rothes, Lauderdale, Kinmore;</hi> the Lords, <hi>Montgomery, Peaſly, Cranſton, Grandiſon,</hi> with many other perſons of quality; as alſo <hi>David Leſley</hi> Lieute<g ref="char:EOLhyphen"/>nant General of their Army, Lieutenant General <hi>Middleton,</hi> Major General <hi>Maſſey,</hi> and divers other General Officers, be<g ref="char:EOLhyphen"/>ſides Seven hundred other Officers, above an hundred Colours, with all their Arms, Artillery, Bag and Baggage; and all this with the loſs of about Two hundred of our men, whereof but Three Commiſſion Officers, and about Three hundred of our Sol<g ref="char:EOLhyphen"/>diers wounded.</p>
+         </div>
+         <div type="account">
+            <p>
+               <hi>THe Parliament taking the Premiſes into their ſerious conſideration, and being ex<g ref="char:EOLhyphen"/>ceedingly affected with the glorious Appear<g ref="char:EOLhyphen"/>ances of God for them, and for all the good People throughout</hi> England, Ireland <hi>and</hi> Scot<g ref="char:EOLhyphen"/>land, <hi>in vouchſafing theſe wonderful and un<g ref="char:EOLhyphen"/>paralled Succeſſes and Victories to their Ar<g ref="char:EOLhyphen"/>mies and Forces (wherein the forwardneſs of the Counties to ſend out their reſpective</hi> Mi<g ref="char:EOLhyphen"/>litia's, <hi>and the Courage and Reſolution of their Soldiers expreſſed in this Service, by owning this Cauſe and preſent Government againſt the Common Enemy, is a Mercy greatly to be acknowledged by us, and re<g ref="char:EOLhyphen"/>ceive a laſting Memorial) Have thought fit to Enact and Ordain, and be it Enacted and Ordained, That</hi> Friday <hi>the Four and twen<g ref="char:EOLhyphen"/>tieth day of</hi> October, <hi>One thouſand ſix hun<g ref="char:EOLhyphen"/>dred fifty one, be obſerved and kept as a day of Publique and Holy Rejoycing and Thankſ<g ref="char:EOLhyphen"/>giving unto the Lord, in all the Churches
+<pb n="1441" facs="tcp:169106:7"/>and Chappels, and Places of Divine Wor<g ref="char:EOLhyphen"/>ſhip within</hi> England, <hi>and alſo in</hi> Ireland <hi>and</hi> Scotland: <hi>And that the Miniſters of the re<g ref="char:EOLhyphen"/>ſpective Pariſhes and Places within this Commonwealth, be and are hereby required and enjoyned to give notice on the Lords-day next preceding the ſaid Four and twentieth day of</hi> October, <hi>of the day ſo to be obſerved, to the end the People may more Generally and Diligently attend the Publique Exerciſes of Gods Worſhip to be Diſpenſed upon that oc<g ref="char:EOLhyphen"/>caſion; at which time, that the People may be the more particularly and fully informed of this great Mercy, The ſaid Miniſters are hereby required and enjoyned to publiſh and reade this preſent Act and Declaration; and for the better Obſervation of the day, The Parliament doth hereby inhibit and forbid the holding and uſe of all Fairs, Markets, and ſervile works of mens ordinary Callings up<g ref="char:EOLhyphen"/>on that day; and all Majors, Sheriffs, Iu<g ref="char:EOLhyphen"/>ſtices of the Peace, Conſtables and other Of<g ref="char:EOLhyphen"/>ficers, be and are hereby enioyned to take ſpe<g ref="char:EOLhyphen"/>cial care of the due Obſervation of the ſaid day of Thankſgiving accordingly.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Friday the</hi> 26<hi rend="sup">th</hi> 
+                     <hi>of</hi> September, 1651.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Parliament, That this Act and Narrative be forthwith printed and publiſhed.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
